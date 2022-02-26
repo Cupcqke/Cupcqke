@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Cupcqke
+- 👀 I’m interested in java development
+- 🌱 I’m currently learning create plugins for minecraft
+- 📫 How to reach me @Cupcqke <- telegram
